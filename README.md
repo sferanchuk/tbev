@@ -25,9 +25,13 @@ Several of provided pieces of software have unresolved dependencies, due to ethi
 The parties involved into private relations with the author are not listed here. But, in addition, following dependencies are required to compile and use the utilities listed above:
 
 md: amber11 package
+
 comppdb: u3b.f - optimal superposition of 3D objects
+
 pkfc: u3b.f, libpdb++, libSAS
+
 vtkview: VTK library, Bio3D
+
 bubbleview: d3b.js, Bio3D
 
 
