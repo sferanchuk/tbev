@@ -1,0 +1,58 @@
+      Zinc vdW parameters...
+MASS
+ZN    65.38
+MG    24.31
+
+BOND
+ZN-O2  480.0 2.29
+ZN-NB  480.0 2.07
+ZN-SH  480.0 2.32
+SH-ZN  480.0 2.32
+NB-ZN  480.0 2.07
+O2-ZN  480.0 2.29
+O2-MG  480.0 2.13
+  
+ANGLE
+NB-ZN-SH 55.0 109.50
+SH-ZN-SH 55.0 109.50
+O2-ZN-SH 55.0 109.50
+NB-ZN-O2 55.0 109.50
+SH-ZN-O2 55.0 109.50
+SH-ZN-NB 55.0 109.50
+O2-ZN-NB 55.0 109.50
+NB-ZN-NB 55.0 109.50
+C -O2-ZN 10.0  120.0
+CV-NB-ZN 10.0  120.0
+CR-NB-ZN 10.0  120.0
+HS-SH-ZN 10.0  120.0
+CT-SH-ZN 10.0  120.0
+C -O2-MG 10.0  120.0
+
+DIHEDRAL
+O2-ZN-NB-CR 1   0.0000        0.0             2.
+O2-ZN-NB-CV 1   0.0000        0.0             2.
+O2-ZN-SH-CT 1   0.0000        0.0             2.
+O2-ZN-SH-HS 1   0.0000        0.0             2.
+O2-C-O2-ZN 1   0.0000        0.0             2.
+C-O2-ZN-NB 1   0.0000        0.0             2.
+C-O2-ZN-SH 1   0.0000        0.0             2.
+CT-C-O2-ZN 1   0.0000        0.0             2.
+CV-NB-ZN-SH 1   0.0000        0.0             2.
+CV-NB-ZN-SH 1   0.0000        0.0             2.
+NB-ZN-SH-CT 1   0.0000        0.0             2.
+NB-ZN-SH-HS 1   0.0000        0.0             2.
+CR-NB-ZN-SH 1   0.0000        0.0             2.
+HS-SH-ZN-SH 1   0.0000        0.0             2.
+SH-ZN-SH-CT 1   0.0000        0.0             2.
+SH-ZN-SH-HS 1   0.0000        0.0             2.
+CT-SH-ZN-SH 1   0.0000        0.0             2.
+CV-NB-ZN-NB 1   0.0000        0.0             2.
+NB-ZN-NB-CR 1   0.0000        0.0             2.
+NB-ZN-NB-CV 1   0.0000        0.0             2.
+CR-NB-ZN-NB 1   0.0000        0.0             2.
+O2-C-O2-MG  1   0.0000        0.0             2.
+CT-C-O2-MG  1   0.0000        0.0             2.
+
+NONBON
+ ZN       1.100  0.012 
+ MG       1.100  0.012 
